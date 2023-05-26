@@ -1,0 +1,168 @@
+----------------
+N is 280000
+----------------
+Iteration 0:
+Insertion sort: 64.205269
+Merger sort: 0.052489
+Quick sort: 0.036972
+
+Iteration 1:
+Insertion sort: 63.507059
+Merger sort: 0.052413
+Quick sort: 0.036976
+
+Iteration 2:
+Insertion sort: 63.639711
+Merger sort: 0.052380
+Quick sort: 0.037374
+
+Iteration 3:
+Insertion sort: 64.055508
+Merger sort: 0.052294
+Quick sort: 0.036495
+
+Iteration 4:
+Insertion sort: 63.724816
+Merger sort: 0.052475
+Quick sort: 0.036997
+
+----------------
+N is 200000
+----------------
+Iteration 0:
+Insertion sort: 33.659531
+Merger sort: 0.036782
+Quick sort: 0.025353
+
+Iteration 1:
+Insertion sort: 33.472281
+Merger sort: 0.036341
+Quick sort: 0.025915
+
+Iteration 2:
+Insertion sort: 33.936835
+Merger sort: 0.038975
+Quick sort: 0.027683
+
+Iteration 3:
+Insertion sort: 33.880515
+Merger sort: 0.036430
+Quick sort: 0.025660
+
+Iteration 4:
+Insertion sort: 33.855100
+Merger sort: 0.038144
+Quick sort: 0.026480
+
+----------------
+N is 150000
+----------------
+Iteration 0:
+Insertion sort: 19.216745
+Merger sort: 0.027047
+Quick sort: 0.018567
+
+Iteration 1:
+Insertion sort: 18.645007
+Merger sort: 0.028456
+Quick sort: 0.019600
+
+Iteration 2:
+Insertion sort: 19.300174
+Merger sort: 0.028630
+Quick sort: 0.019963
+
+Iteration 3:
+Insertion sort: 19.150228
+Merger sort: 0.029336
+Quick sort: 0.020230
+
+Iteration 4:
+Insertion sort: 19.128151
+Merger sort: 0.027414
+Quick sort: 0.019352
+
+----------------
+N is 100000
+----------------
+Iteration 0:
+Insertion sort: 8.353715
+Merger sort: 0.017828
+Quick sort: 0.012010
+
+Iteration 1:
+Insertion sort: 8.405306
+Merger sort: 0.017551
+Quick sort: 0.011930
+
+Iteration 2:
+Insertion sort: 8.439299
+Merger sort: 0.018745
+Quick sort: 0.013093
+
+Iteration 3:
+Insertion sort: 8.444912
+Merger sort: 0.018089
+Quick sort: 0.012581
+
+Iteration 4:
+Insertion sort: 8.427221
+Merger sort: 0.018540
+Quick sort: 0.012732
+
+----------------
+N is 50000
+----------------
+Iteration 0:
+Insertion sort: 2.107309
+Merger sort: 0.008812
+Quick sort: 0.006135
+
+Iteration 1:
+Insertion sort: 2.068419
+Merger sort: 0.008478
+Quick sort: 0.005659
+
+Iteration 2:
+Insertion sort: 2.025885
+Merger sort: 0.008251
+Quick sort: 0.005649
+
+Iteration 3:
+Insertion sort: 2.016557
+Merger sort: 0.008349
+Quick sort: 0.005587
+
+Iteration 4:
+Insertion sort: 2.154828
+Merger sort: 0.008820
+Quick sort: 0.005951
+
+----------------
+N is 10000
+----------------
+Iteration 0:
+Insertion sort: 0.086135
+Merger sort: 0.001527
+Quick sort: 0.001006
+
+Iteration 1:
+Insertion sort: 0.088481
+Merger sort: 0.001576
+Quick sort: 0.001069
+
+Iteration 2:
+Insertion sort: 0.090320
+Merger sort: 0.001815
+Quick sort: 0.001065
+
+Iteration 3:
+Insertion sort: 0.089142
+Merger sort: 0.001682
+Quick sort: 0.001061
+
+Iteration 4:
+Insertion sort: 0.089294
+Merger sort: 0.001562
+Quick sort: 0.001055
+
